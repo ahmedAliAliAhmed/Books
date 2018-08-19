@@ -1,0 +1,19 @@
+
+
+
+  body{
+     background-image:url("backImg.jpg");
+     background-color:black;
+     border:solid;
+ }
+
+ .container {
+
+  border:solid;
+ }
+
+ h1{
+
+   text-align:center;
+ }
+
